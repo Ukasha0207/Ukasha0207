@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ukasha0207
+- 👋 Hi, I’m Ukasha Abbas
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python, html css and JavaScript 
 - 💞️ I’m looking to collaborate on pair programming skills to improve my skills
